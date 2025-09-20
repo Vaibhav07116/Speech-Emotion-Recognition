@@ -1,10 +1,3 @@
-Of course. I have reviewed your GitHub repository and its structure. You've done a great job organizing the different experiments into separate folders.
-
-Here is the complete, updated README.md file, tailored to your exact project structure and with the correct GitHub link.
-
-Code for Your README.md File
-Markdown
-
 # Speech Emotion Recognition Using Deep Learning Techniques
 
 This project presents a comprehensive comparative analysis of four distinct deep learning architectures for Speech Emotion Recognition (SER). The models—CNN+LSTM, Emoformer, Vision Transformer (ViT), and ResNet—are trained and evaluated on the TESS and RAVDESS datasets to determine the most effective and efficient approach for classifying human emotions from audio.
