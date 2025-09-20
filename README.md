@@ -2,8 +2,6 @@
 
 This project presents a comprehensive comparative analysis of four distinct deep learning architectures for Speech Emotion Recognition (SER). The models—CNN+LSTM, Emoformer, Vision Transformer (ViT), and ResNet—are trained and evaluated on the TESS and RAVDESS datasets to determine the most effective and efficient approach for classifying human emotions from audio.
 
-This work was completed as part of our coursework at VIT Bhopal University. The final research paper can be found in this repository (`research paper.pdf`).
-
 ## 🧑‍💻 Authors
 
 * **Jasmine Selvakumari Jeya I** (Senior Associate Professor)
